@@ -5,6 +5,6 @@
   "patch": {
     "@odata.type": "#microsoft.graph.iosCompliancePolicy",
     "osMinimumVersion": "27.1",
-    "description": "Dual-flow test via AppReg public repo (iOS)"
+    "description": "AppReg-flow test: iOS osMinimumVersion 27.1"
   }
 }
