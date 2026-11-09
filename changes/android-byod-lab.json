@@ -5,7 +5,7 @@
   "patch": {
     "@odata.type": "#microsoft.graph.androidWorkProfileCompliancePolicy",
     "osMinimumVersion": "16.0",
-    "minAndroidSecurityPatchLevel": "2026-10-05",
-    "description": "Updated via public intune-policy-changes-appreg dispatch"
+    "minAndroidSecurityPatchLevel": "2026-11-05",
+    "description": "Updated via public intune-policy-changes-appreg dispatch (BYOD)"
   }
 }
